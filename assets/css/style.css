@@ -1,0 +1,186 @@
+/*Paleta de colores
+
+rosa-fuerte: #fe79b4;
+rosa medio: #feb2cd;
+rosa claro: #f6dada;
+blanco: #fcfbf7;
+celeste: #5D7A84;
+fondorosa: #feebfc;
+*/
+
+
+/*Tipografías
+font-family: 'Bubbler One', sans-serif;
+font-family: 'Lobster', cursive;
+*/
+
+body {
+    background-color: #fcfbf7;
+    font-family: 'Bubbler One', sans-serif;
+    color: #5D7A84;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 1.32em;
+}
+
+nav .nav-wrapper {
+    position: relative;
+    height: 100%;
+    background-color: rgba(175, 130, 165, 0.4);
+}
+
+.barra {
+    color: #D0005C;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+a .barra {
+    height: 80%;
+}
+
+.nav-wrapper {
+    width: 100%;
+    color: #fe79b4;
+    font-size: 20px;
+}
+
+.hamburguesa {
+    color: #fe79b4;
+}
+
+.titles {
+    font-family: 'Lobster', cursive;
+    color: #FF0071;
+    font-weight: bolder;
+}
+
+.subtitles {
+    font-family: 'Bubbler One';
+    color: #5D7A84;
+    font-weight: bolder;
+}
+
+.spanish {
+    color: #fe79b4;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.menu-side ul li {
+    color: #5D7A84;
+}
+
+.logo-letras-large {
+    width: 100%;
+    left: auto;
+    right: auto;
+    margin-top: 64px;
+    bottom: auto;
+}
+
+.logo-letras {
+    width: 100%;
+    left: auto;
+    right: auto;
+    margin-top: 120px;
+    bottom: auto;
+}
+
+.about-me {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.fran {
+    width: 300px;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+a {
+    color: #fe79b4;
+}
+
+.parallax-container {
+    height: 450px;
+}
+
+.card-project {
+    width: 100%;
+    left: auto;
+    top: auto;
+}
+
+.titulo-card {
+    position: relative;
+}
+
+.card-icons i {
+    font-size: 18px;
+}
+
+.hackathon {
+    width: 100%;
+}
+
+.skillset {
+    top: 30px;
+}
+
+.skills {
+    padding: 10px;
+}
+
+.skill-ico {
+    font-size: 60px;
+    color: #fe79b4;
+    padding: 20px;
+}
+
+.projects {
+    top: 30px;
+}
+
+.logos-events {
+    display: inline-flex;
+    align-items: flex-end;
+}
+
+.logobci {
+    margin-bottom: 30px;
+}
+
+.helpii {
+    margin-top: 130px;
+}
+
+.fotoface {
+    margin-top: 30px;
+}
+
+.page-footer {
+    background-image: url('../img/Akiko.jpg');
+}
+
+#foot {
+    margin-bottom: 0;
+}
+
+.page-footer {
+    color: black;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.page-footer a {
+    color: black;
+}
+
+.fa-linkedin-square,
+.devicon-github-plain-wordmark,
+.fa-envelope {
+    color: #fe79b4;
+    font-size: 30px;
+}
